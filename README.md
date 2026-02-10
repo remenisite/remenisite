@@ -1,52 +1,131 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Antor%20Karmoker!%20👋&fontSize=36&fontColor=fff&animation=twinkling)
+<div align="center">
 
-### 💫 I'm a Junior Frontend (React) Developer  
+# Hi 👋, I'm Antor Karmaker
 
-Passionate about crafting smooth, responsive, and interactive web experiences using modern frontend technologies.  
-I love solving real-world problems through code and building pixel-perfect interfaces.
+### JavaScript & Frontend Developer | React.js, Next.js, Tailwind CSS | UI & Performance Focused
 
-# 💫 About Me:
-💻 Frontend Developer with a focus on React.js, Next.js, and modern UI frameworks.  
-I’m currently working on an internship at the Creative IT Institute<br>I’m presently learning Backend Development (Node.js)<br>Ask me about React, Redux, Firebase, etc.<br>How to reach me: antor.web.bd@gmail.com<br>
-✨ Open for collaboration on **React projects**, **UI/UX integrations**, or **frontend mentorship**.
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/antorweb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/antorwev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antorweb/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/antorwev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antor.web.bd@gmail.com) 
+## 🚀 About Me
 
+I am a passionate JavaScript Developer focused on building responsive, visually engaging, and high-performance web applications. I mainly work with React.js and Next.js, creating clean UI, scalable components, and user-friendly experiences.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antorweb&theme=transparent)
+## 📚 Learning & Knowledge
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antorweb&theme=darcula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antorweb&theme=darcula)
+<div align="left">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antorweb&theme=darcula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antorweb&theme=darcula&utcOffset=8)
+- 🌱 I'm currently learning **I’m presently learning Backend Development (Node.js)**
 
+</div>
 
-# 💻 Tech Stack:
-### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,codepen,discord,git,gitHub,gitLab,js,ai,netlify,next,node,notion,npm,ps,powershell,react,redux,svg,tailwind,threejs,ts,vercel,visualstudio,vite,vscode,wordpress,figma,firebase,GitHub,GitLab,jquery,stackoverflow,sass)](https://skillicons.dev)
+## 🚀 Projects
 
-</td><td valign="top" width="33%">
-  
-## 🌐 Portfolio
-[![Portfolio Preview](https://i.imgur.com/tzkCm8h.png)](https://portfolio-website-remeni.vercel.app/)
+| Project | Description | Links |
+|---|---|---|
+| E-Commerce Website |  | [Live](https://nex-ton.vercel.app/) / [GitHub](https://github.com/remenisite/React-ecommarce-Nex-ton) |
 
+### E-Commerce Website
 
+## 🎓 Education
 
+| Institution | Degree | Duration |
+|---|---|---|
+| National University | Bachelor  |  -  |
 
+### Bachelor  in Business Management 
+*National University*
 
-## 🏆 Featured Projects
-| Project | Description | Tech |
-|:--------|:-------------|:----|
-| **React Dashboard UI** | Interactive admin dashboard with chart visualization and dark mode support. | React, Chart.js, TailwindCSS |
-| **Portfolio Remeni** | My personal portfolio website showcasing my skills and work. | Next.js, Framer Motion, Vercel |
-| **Firebase Auth App** | User authentication app with Firebase backend. | React, Firebase, Redux |
+(Ongoing)
 
+## 💼 Internships
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=antorweb&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+| Company | Position | Duration |
+|---|---|---|
+| Creative IT Institute | Gov’t EBT Asset Project | 2025-10 - 2026-01 |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### Gov’t EBT Asset Project at Creative IT Institute
 
+Worked on Gov’t EBT Asset Project & Completed NADA Level-3 Certification
 
 
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **antor.web.bd@gmail.com**
+- 👨‍💻 All of my projects are available at [https://portfolio-website-remeni.vercel.app/](https://portfolio-website-remeni.vercel.app/)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/remenisite)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/remenisite)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/remenisite/)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/remenisite)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/remenisite/)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01768780954)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />
+
+### 💻 Frontend Development
+
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass/CC6699?size=32" alt="Sass"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/webpack/8DD6F9?size=32" alt="Webpack"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
+
+### 💻 Backend Development
+
+<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs/E0234E?size=32" alt="NestJS"  />
+
+### 💻 Database
+
+<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />
+
+### 💻 Backend as a Service (BaaS)
+
+<img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" alt="Firebase"  />
+
+### 💻 Testing
+
+<img src="https://cdn.simpleicons.org/jest/C21325?size=32" alt="Jest"  />
+
+### 💻 Software
+
+<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00?size=32" alt="Adobe Illustrator"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF?size=32" alt="Adobe Photoshop"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/framer/0055FF?size=32" alt="Framer"  />
+
+### 💻 Static Site Generators
+
+<img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
+
+### 💻 Other
+
+<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- Visitor Count Badge: GitHub username required -->
+
+<!-- GitHub Trophy: GitHub username required -->
+
+<!-- Top Skills Card: GitHub username required -->
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/https://x.com/remenisite?style=social)](https://twitter.com/https://x.com/remenisite)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
