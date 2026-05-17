@@ -28,7 +28,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 </td><td valign="top" width="33%">
   
 ## 🌐 Portfolio
-[![Portfolio Preview](https://i.imgur.com/yGuOAcS.png)](https://portfolio-remeni.vercel.app/)
+[![Portfolio Preview](https://i.imgur.com/yGuOAcS.png)](https://portfolio-website-remeni.vercel.app/)
 
 
 ## 🏆 Featured Projects
