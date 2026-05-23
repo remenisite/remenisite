@@ -23,7 +23,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 
 # 💻 Tech Stack:
 ### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,codepen,discord,git,gitHub,gitLab,js,ai,netlify,next,node,notion,npm,ps,powershell,react,redux,svg,tailwind,threejs,ts,vercel,visualstudio,vite,vscode,wordpress,figma,firebase,GitHub,GitLab,jquery,stackoverflow,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,codepen,discord,git,js,ai,netlify,next,notion,npm,ps,powershell,react,redux,svg,tailwind,threejs,ts,vercel,visualstudio,vite,vscode,wordpress,figma,firebase,jquery,stackoverflow,sass)](https://skillicons.dev)
 
 </td><td valign="top" width="33%">
   
